@@ -1,0 +1,58 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+img
+{
+    height: 400px;
+    width: 400px;
+}
+
+.imagePanel
+{
+    height: 500px;
+    width: 400px;
+    margin-left: 50px;
+    vertical-align: top;
+    display: inline-block;
+}
+.imageTextPanel
+{
+    height: 500px;
+    width: 500px;
+    margin-left: 20px;
+    vertical-align: top;
+    display: inline-block;
+
+}
+
+.imageText
+{
+    height: 500px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#panelButtonGetText
+{
+    margin-top: 10px;
+    align-content: center;
+    text-align: center;
+    width: 400px;
+}
+
+#uploadForm
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
