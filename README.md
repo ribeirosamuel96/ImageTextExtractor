@@ -12,8 +12,9 @@
     <ul>
         <li>Abrir o terminal e ir até a pasta onde o projeto foi clonado</li>
         <li>Executar o comando "composer install"</li>
-        <li>Executar o comando php artisan key:generate</li>
-        <li>Executar o comando php artisan serve</li>
+        <li>Executar o comando "copy .env.example .env"</li>
+        <li>Executar o comando "php artisan key:generate"</li>
+        <li>Executar o comando "php artisan serve"</li>
      </ul>
 </p>
 
