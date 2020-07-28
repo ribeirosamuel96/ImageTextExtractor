@@ -1,4 +1,4 @@
-# Extração de texto de uma imagem
+# Extração do texto de uma imagem
 ## Tecnologias usadas
 <p align="left">
       <ul>
